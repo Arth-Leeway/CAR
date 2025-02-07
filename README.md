@@ -1,1 +1,2 @@
-The churn_Analysis_Cox file consists of Churn Analysis of Telecom Data based off on the Lifelines library CoxFitter
+The churn_Analysis_Cox file  - consists of Churn Analysis of Telecom Data based off on the Lifelines library CoxFitter.
+THe
